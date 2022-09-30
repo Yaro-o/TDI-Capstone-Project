@@ -1,6 +1,6 @@
 # TDI Capstone Project
 
-This repository contains all source files to construct the nycaccidents.app web application. The following resources was used to build this app:
+This repository contains all source files to develop and deploy the nycaccidents.app web application. The following resources was used to build this app:
 
 ### Data
 * The accident dataset was obtained from [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95). This dataset is updated daily and contains more than 1.9 million rows and 29 columns. The total size of the dataset is **400+ MB**. Every row contains the details of one accident such as date, time, location, etc.
