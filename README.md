@@ -9,7 +9,7 @@ This repository contains all source files to construct the nycaccidents.app web 
 * The Street Centerline was also obtain from [NYC Open Data](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b). This dataset has more than 120,000 rows. Every row contains information of a street/parkway/highway segment. 
 
 ### Framework for building the App:
-(Dash Plotly)[https://dash.plotly.com/introduction] was used to build this dashboard. 
+[Dash Plotly](https://dash.plotly.com/introduction) was used to build this dashboard. 
 Dash is a framework for building highly-customizable, data-oriented, user interfaces apps and dashboard in Python.
 
 ### Deployment:
