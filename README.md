@@ -1,4 +1,4 @@
-# TDI-Capstone-Project
+# TDI Capstone Project
 
 This repository contains all source files to construct the nycaccidents.app web application. The following resources was used to build this app:
 
